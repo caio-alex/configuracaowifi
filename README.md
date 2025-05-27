@@ -55,3 +55,6 @@ Cada sub-rede está conectada a um switch.
 Os switches se conectam a um roteador central, que faz o roteamento entre as sub-redes.
 🌐 Objetivo da separação:
 A divisão com sub-redes /25 permite maior organização, controle de tráfego, segurança e segmentação da rede para diferentes departamentos ou áreas da empresa.
+![image](https://github.com/user-attachments/assets/d9e0b7f1-7f17-4e96-8bf2-6cd9b00f8f85)
+![image](https://github.com/user-attachments/assets/5b81f0ac-d482-406b-a83d-58805a5fa6e8)
+
